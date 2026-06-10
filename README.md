@@ -161,4 +161,4 @@ http://localhost:8080
 # 🔗 Project Links
 
 🌐 Live Demo: https://skillcraft.ai  
-📦 GitHub Repository: https://github.com/yourusername/skillcraft.ai
+📦 GitHub Repository: https://github.com/krunalborad/skillCraft.ai
